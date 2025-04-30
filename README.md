@@ -11,7 +11,12 @@ A simple web-based BMI (Body Mass Index) Calculator that allows users to input t
 
 ## How to Use
 
-1. **Clone the repository**:
+1. **See Live Demo**:
+   ```bash
+   https://vercel.com/kamran-ashrafs-projects/bmi-calculator
+   ```
+
+2. **Clone the repository**:
    ```bash
    git clone https://github.com/KamranAshraf10/bmi-calculator.git
    ```
