@@ -13,7 +13,7 @@ A simple web-based BMI (Body Mass Index) Calculator that allows users to input t
 
 1. **See Live Demo**:
    ```bash
-   https://vercel.com/kamran-ashrafs-projects/bmi-calculator
+   https://bmi-calculator-alpha-sandy.vercel.app/
    ```
 
 2. **Clone the repository**:
